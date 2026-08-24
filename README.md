@@ -398,6 +398,4 @@ Computer Science & Engineering
 
 ---
 
-## 📜 License
 
-This project was developed for educational and academic purposes.
